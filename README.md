@@ -11,11 +11,12 @@ correction school project and improvement of a to-do list app.
 [![time tracker](https://wakatime.com/badge/github/ga-devfront/To-Do-List.svg)](https://wakatime.com/badge/github/ga-devfront/To-Do-List)
 
 ## Detailed App
-- *Coming soon*
+- *Coming soon*  
 
 ## Fixes
-This is the non-exhaustive list of fixes applied to the project with their issues and pull requests :
-- *Empty*
+This is the non-exhaustive list of fixes applied to the project with their issues, commit and pull requests :
+- **typo problem :** [issue](https://github.com/ga-devfront/To-Do-List/issues/4) → [commit](https://github.com/ga-devfront/To-Do-List/commit/123f7e321338e34de983cd545dbc03f233aed4cc) → pull request
+- **ID conflict :** [issue](https://github.com/ga-devfront/To-Do-List/issues/4) → [commit](https://github.com/ga-devfront/To-Do-List/commit/778317f5d67faa0a27408b7ecc7517f95d4e457f) → pull request
 
 ## Improuvements
 This is the non-exhaustive list of improuvements applied to the project with their issues and pull requests :
