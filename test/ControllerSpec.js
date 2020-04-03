@@ -166,6 +166,13 @@ describe('controller', function () {
 		expect(view.render).toHaveBeenCalledWith('setFilter', 'active');
 	});
 
+	it('should highlight "Completed" filter when switching to completed view', function () {
+		// test added
+		subject.setView('');
+		subject.setView('#/completed');
+		expect(view.render).toHaveBeenCalledWith('setFilter', 'completed');
+	});
+
 	describe('toggle all', function () {
 		it('should toggle all todos to completed', function () {
 			// test added
