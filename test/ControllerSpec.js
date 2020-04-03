@@ -83,7 +83,14 @@ describe('controller', function () {
 		});
 
 		it('should show active entries', function () {
-			// TODO: write test
+			// test added
+			var todos = [{title: 'my todo', completed: false}, {title: 'my todo 2', completed: true}];
+			setUpModel(todos);
+
+			subject.setView("#/active");
+			
+			expect(model.read).toHaveBeenCalledWith({ completed: false }, jasmine.any(Function));
+			expect(view.render).toHaveBeenCalledWith('showEntries', todos);
 		});
 
 		it('should show completed entries', function () {
