@@ -59,7 +59,13 @@ describe('controller', function () {
 	});
 
 	it('should show entries on start-up', function () {
-		// TODO: write test
+		// test added
+		var todos = [{title: 'my todo'}, {title: 'my todo 2'}];
+		setUpModel(todos);
+
+		subject.setView('');
+
+		expect(view.render).toHaveBeenCalledWith('showEntries', todos);
 	});
 
 	describe('routing', function () {
