@@ -179,7 +179,14 @@ describe('controller', function () {
 		});
 
 		it('should update the view', function () {
-			// TODO: write test
+			// test added
+			var todos = [{id: 123456, title: 'todo 1', completed: false}, {id: 654321, title: 'todo 2', completed: false}, {id: 789456, title: 'todo 3', completed: true}];
+			setUpModel(todos);
+			subject.setView('#/');
+
+			subject.toggleAll(true);
+			expect(view.render).toHaveBeenCalledWith('elementComplete', {id : todos[0].id, completed: true});
+			expect(view.render).toHaveBeenCalledWith('elementComplete', {id : todos[1].id, completed: true});
 		});
 	});
 
