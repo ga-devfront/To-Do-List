@@ -157,11 +157,13 @@ describe('controller', function () {
 		// test added
 		subject.setView('');
 		expect(view.render).toHaveBeenCalledWith('setFilter', '');
-
 	});
 
 	it('should highlight "Active" filter when switching to active view', function () {
-		// TODO: write test
+		// test added
+		subject.setView('');
+		subject.setView('#/active');
+		expect(view.render).toHaveBeenCalledWith('setFilter', 'active');
 	});
 
 	describe('toggle all', function () {
