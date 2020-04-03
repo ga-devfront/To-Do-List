@@ -168,7 +168,14 @@ describe('controller', function () {
 
 	describe('toggle all', function () {
 		it('should toggle all todos to completed', function () {
-			// TODO: write test
+			// test added
+			var todos = [{id: 123456, title: 'todo 1', completed: false}, {id: 654321, title: 'todo 2', completed: false}, {id: 789456, title: 'todo 3', completed: true}];
+			setUpModel(todos);
+			subject.setView('#/');
+
+			subject.toggleAll(true);
+			expect(model.update).toHaveBeenCalledWith(todos[0].id, {completed: true}, jasmine.any(Function));
+			expect(model.update).toHaveBeenCalledWith(todos[1].id, {completed: true}, jasmine.any(Function));
 		});
 
 		it('should update the view', function () {
