@@ -45,7 +45,12 @@ This is the non-exhaustive list of improuvements applied to the project with the
 - **improuve loop :** [issue](https://github.com/ga-devfront/To-Do-List/issues/9) → [commit](https://github.com/ga-devfront/To-Do-List/commit/3e3fccaf4a795d8c3f20986ceeec8b229e61774e) → [pull request](https://github.com/ga-devfront/To-Do-List/pull/11)
 
 ## App's Tests
-Tests are performed on the application using Jasmine. You can find the list in the [wiki](https://github.com/ga-devfront/To-Do-List/wiki/App's-tests) or directly in the [ControllerSpec.js](test/ControllerSpec.js).
+Tests are performed on the application using **Jasmine**. You can find the list in the [wiki](https://github.com/ga-devfront/To-Do-List/wiki/App's-tests) or directly in the [ControllerSpec.js](test/ControllerSpec.js).
+
+## Annex
+Some additional files can be found in the Wiki :
+- [Performance Audit](https://github.com/ga-devfront/To-Do-List/wiki/Performance-Audit)
+- [Possible Features](https://github.com/ga-devfront/To-Do-List/wiki/Possible-Features)
 
 ## Authors
 - Guyomar Alexis - [ga-devfront](https://github.com/ga-devfront/)
