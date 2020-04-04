@@ -1,6 +1,7 @@
 node_modules/todomvc-app-css/license
 node_modules/todomvc-app-css/package.json
 node_modules/todomvc-app-css/readme.md
+!node_modules/todomvc-app-css/index.css
 
 node_modules/todomvc-common
 !node_modules/todomvc-common/base.js
