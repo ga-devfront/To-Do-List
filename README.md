@@ -32,16 +32,17 @@ followed by their detailed description.
 ↳ 📄 ControllerSpec.js
 ↳ 📄 SpecRunner.html
 ```
-If you want more informations about the app you can see it on [wiki](wiki/Detailed-App).
+If you want more informations about the app you can see it on [wiki]([wiki/Detailed-App](https://github.com/ga-devfront/To-Do-List/wiki/Detailed-App)).
 
 ## Fixes
 This is the non-exhaustive list of fixes applied to the project with their issues, commit and pull requests :
-- **typo problem :** [issue](https://github.com/ga-devfront/To-Do-List/issues/4) → [commit](https://github.com/ga-devfront/To-Do-List/commit/123f7e321338e34de983cd545dbc03f233aed4cc) → pull request
-- **ID conflict :** [issue](https://github.com/ga-devfront/To-Do-List/issues/4) → [commit](https://github.com/ga-devfront/To-Do-List/commit/778317f5d67faa0a27408b7ecc7517f95d4e457f) → pull request
+- **typo problem :** [issue](https://github.com/ga-devfront/To-Do-List/issues/4) → [commit](https://github.com/ga-devfront/To-Do-List/commit/123f7e321338e34de983cd545dbc03f233aed4cc) → [pull request](https://github.com/ga-devfront/To-Do-List/pull/6)
+- **ID conflict :** [issue](https://github.com/ga-devfront/To-Do-List/issues/4) → [commit](https://github.com/ga-devfront/To-Do-List/commit/778317f5d67faa0a27408b7ecc7517f95d4e457f) → [pull request](https://github.com/ga-devfront/To-Do-List/pull/6)
 
 ## Improuvements
 This is the non-exhaustive list of improuvements applied to the project with their issues and pull requests :
-- *Empty*
+- **remove console log :** [issue](https://github.com/ga-devfront/To-Do-List/issues/9) → [commit](https://github.com/ga-devfront/To-Do-List/commit/b106cf30079eb86e291c0d8c802efb0010fb6f2a) → [pull request](https://github.com/ga-devfront/To-Do-List/pull/11)
+- **improuve loop :** [issue](https://github.com/ga-devfront/To-Do-List/issues/9) → [commit](https://github.com/ga-devfront/To-Do-List/commit/3e3fccaf4a795d8c3f20986ceeec8b229e61774e) → [pull request](https://github.com/ga-devfront/To-Do-List/pull/11)
 
 ## Authors
 - Guyomar Alexis - [ga-devfront](https://github.com/ga-devfront/)
