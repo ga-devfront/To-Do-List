@@ -1,10 +1,11 @@
 # To Do List
-correction school project and improvement of a to-do list app.
+correction school project and improvement of a to-do list app. You can see the online version [here](https://ag-dev.fr/openclassrooms/todolist/).
 
 ## Badges
 ![GitHub repo size](https://img.shields.io/github/repo-size/ga-devfront/To-Do-List)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ga-devfront/To-Do-List)
 ![GitHub top language](https://img.shields.io/github/languages/top/ga-devfront/To-Do-List)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fag-dev.fr%2Fopenclassrooms%2Ftodolist%2F)
 
 ![GitHub](https://img.shields.io/github/license/ga-devfront/To-Do-List)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/97f077c5858a4ca99ce973e1868966c9)](https://www.codacy.com/manual/ga-devfront/To-Do-List?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ga-devfront/To-Do-List&amp;utm_campaign=Badge_Grade)
