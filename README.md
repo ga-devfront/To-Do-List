@@ -41,8 +41,15 @@ This is the non-exhaustive list of fixes applied to the project with their issue
 
 ## Improuvements
 This is the non-exhaustive list of improuvements applied to the project with their issues and pull requests :
-- **remove console log :** [issue](https://github.com/ga-devfront/To-Do-List/issues/9) → [commit](https://github.com/ga-devfront/To-Do-List/commit/b106cf30079eb86e291c0d8c802efb0010fb6f2a) → [pull request](https://github.com/ga-devfront/To-Do-List/pull/11)
-- **improuve loop :** [issue](https://github.com/ga-devfront/To-Do-List/issues/9) → [commit](https://github.com/ga-devfront/To-Do-List/commit/3e3fccaf4a795d8c3f20986ceeec8b229e61774e) → [pull request](https://github.com/ga-devfront/To-Do-List/pull/11)
+- **remove console log (JS):** [issue](https://github.com/ga-devfront/To-Do-List/issues/9) → [commit](https://github.com/ga-devfront/To-Do-List/commit/b106cf30079eb86e291c0d8c802efb0010fb6f2a) → [pull request](https://github.com/ga-devfront/To-Do-List/pull/11)
+- **improuve loop (JS):** [issue](https://github.com/ga-devfront/To-Do-List/issues/9) → [commit](https://github.com/ga-devfront/To-Do-List/commit/3e3fccaf4a795d8c3f20986ceeec8b229e61774e) → [pull request](https://github.com/ga-devfront/To-Do-List/pull/11)
+- **display toggle-all (CSS):** [issue](https://github.com/ga-devfront/To-Do-List/issues/14) → [commit](https://github.com/ga-devfront/To-Do-List/pull/15/commits/a8150e44aab6ce5e06ca55a48374e1951595658c) → [pull request](https://github.com/ga-devfront/To-Do-List/pull/15)
+- **display toggle-all label (CSS):** [issue](https://github.com/ga-devfront/To-Do-List/issues/14) → [commit](https://github.com/ga-devfront/To-Do-List/pull/15/commits/3ec5ef1fe988956cbfee4c1bb1b678cb9a46aaa6) → [pull request](https://github.com/ga-devfront/To-Do-List/pull/15)
+- **adjust :before label (CSS):** [issue](https://github.com/ga-devfront/To-Do-List/issues/14) → [commit](https://github.com/ga-devfront/To-Do-List/pull/15/commits/01c4c6285ce9226a564fa9099a981220d7fa44f7) → [pull request](https://github.com/ga-devfront/To-Do-List/pull/15)
+- **add main meta (SEO):** [issue](https://github.com/ga-devfront/To-Do-List/issues/16) → commit → pull request
+- **add favicon (SEO):** [issue](https://github.com/ga-devfront/To-Do-List/issues/16) → commit → pull request
+- **add meta OG (SEO):** [issue](https://github.com/ga-devfront/To-Do-List/issues/16) → commit → pull request
+- **add meta Twitter (SEO):** [issue](https://github.com/ga-devfront/To-Do-List/issues/16) → commit → pull request
 
 ## App's Tests
 Tests are performed on the application using **Jasmine**. You can find the list in the [wiki](https://github.com/ga-devfront/To-Do-List/wiki/App's-tests) or directly in the [ControllerSpec.js](test/ControllerSpec.js).
