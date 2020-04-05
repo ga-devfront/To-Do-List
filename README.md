@@ -46,10 +46,10 @@ This is the non-exhaustive list of improuvements applied to the project with the
 - **display toggle-all (CSS):** [issue](https://github.com/ga-devfront/To-Do-List/issues/14) → [commit](https://github.com/ga-devfront/To-Do-List/pull/15/commits/a8150e44aab6ce5e06ca55a48374e1951595658c) → [pull request](https://github.com/ga-devfront/To-Do-List/pull/15)
 - **display toggle-all label (CSS):** [issue](https://github.com/ga-devfront/To-Do-List/issues/14) → [commit](https://github.com/ga-devfront/To-Do-List/pull/15/commits/3ec5ef1fe988956cbfee4c1bb1b678cb9a46aaa6) → [pull request](https://github.com/ga-devfront/To-Do-List/pull/15)
 - **adjust :before label (CSS):** [issue](https://github.com/ga-devfront/To-Do-List/issues/14) → [commit](https://github.com/ga-devfront/To-Do-List/pull/15/commits/01c4c6285ce9226a564fa9099a981220d7fa44f7) → [pull request](https://github.com/ga-devfront/To-Do-List/pull/15)
-- **add main meta (SEO):** [issue](https://github.com/ga-devfront/To-Do-List/issues/16) → commit → pull request
-- **add favicon (SEO):** [issue](https://github.com/ga-devfront/To-Do-List/issues/16) → commit → pull request
-- **add meta OG (SEO):** [issue](https://github.com/ga-devfront/To-Do-List/issues/16) → commit → pull request
-- **add meta Twitter (SEO):** [issue](https://github.com/ga-devfront/To-Do-List/issues/16) → commit → pull request
+- **add main meta (SEO):** [issue](https://github.com/ga-devfront/To-Do-List/issues/16) → [commit](https://github.com/ga-devfront/To-Do-List/commit/4da071ebcc65c517916968bd2e24ac8b5881b634) → [pull request](https://github.com/ga-devfront/To-Do-List/pull/17)
+- **add favicon (SEO):** [issue](https://github.com/ga-devfront/To-Do-List/issues/16) → [commit](https://github.com/ga-devfront/To-Do-List/commit/842b798ddebc58f05cfd1accb711ab94299eeeb9) → [pull request](https://github.com/ga-devfront/To-Do-List/pull/17)
+- **add meta OG (SEO):** [issue](https://github.com/ga-devfront/To-Do-List/issues/16) → [commit](https://github.com/ga-devfront/To-Do-List/commit/bc643d65e9cb9d8fc18471684a50d29760084921) → [pull request](https://github.com/ga-devfront/To-Do-List/pull/17)
+- **add meta Twitter (SEO):** [issue](https://github.com/ga-devfront/To-Do-List/issues/16) → [commit](https://github.com/ga-devfront/To-Do-List/commit/1790f4bd1705fb6f2482d8786481823178043978) → [pull request](https://github.com/ga-devfront/To-Do-List/pull/17)
 
 ## App's Tests
 Tests are performed on the application using **Jasmine**. You can find the list in the [wiki](https://github.com/ga-devfront/To-Do-List/wiki/App's-tests) or directly in the [ControllerSpec.js](test/ControllerSpec.js).
