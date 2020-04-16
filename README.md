@@ -57,7 +57,7 @@ Tests are performed on the application using **Jasmine**. You can find the list 
 
 ## Annex
 Some additional files can be found in the Wiki :
-- [Performance Audit](https://github.com/ga-devfront/To-Do-List/wiki/Performance-Audit)
+- [Performance Audit](https://github.com/ga-devfront/To-Do-List/wiki/Audit-our-site-vs-today's-tasks)
 - [Possible Features](https://github.com/ga-devfront/To-Do-List/wiki/Possible-Features)
 
 ## Authors
