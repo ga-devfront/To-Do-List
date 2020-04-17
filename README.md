@@ -33,7 +33,7 @@ followed by their detailed description.
 ↳ 📄 ControllerSpec.js
 ↳ 📄 SpecRunner.html
 ```
-If you want more informations about the app you can see it on [wiki]([wiki/Detailed-App](https://github.com/ga-devfront/To-Do-List/wiki/Detailed-App)).
+If you want more informations about the app you can see it on [wiki](https://github.com/ga-devfront/To-Do-List/wiki/Detailed-App).
 
 ## Fixes
 This is the non-exhaustive list of fixes applied to the project with their issues, commit and pull requests :
